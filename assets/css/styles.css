@@ -1,0 +1,127 @@
+.col-2.items-centrado-xy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-item.active {
+  color: white;
+}
+
+.nav-item {
+  font-size: 14px;
+}
+
+.nav-link.active {
+  background-color: var(--blue);
+  color: white;
+}
+
+.nav-link.active {
+  color: white !important;
+}
+
+.nav-link {
+  height: 50px;
+  text-align: center;
+  line-height: 35px;
+}
+
+.nav-link {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.social-icon-box {
+  padding: 10px 15PX;
+  background-color: var(--blue);
+  margin-right: 10px;
+}
+
+.p-footer {
+  padding: 0 !important;
+  margin: 0px;
+}
+
+.thumbnails-grande {
+  height: 270px;
+}
+
+.thumbnails-frame {
+  text-align: center;
+  padding: 15px;
+}
+
+.thumbnails-mini {
+  height: 60px;
+}
+
+.col-3.thumbnails-mini-frame {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.div-mini-frame {
+  height: 50%;
+  vertical-align: middle;
+  display: inline-block;
+  padding-top: 5%;
+}
+
+.thumbnails-medium {
+  height: 100px;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: var(--blue) !important;
+  color: white !important;
+}
+
+.thumbnails-normal {
+  height: 450px;
+  max-width: 380px;
+}
+
+.btn.btn-primary.btn-counter {
+  height: 30px;
+  width: 30px;
+  padding: 0px;
+}
+
+.cell-vertical-middle {
+  vertical-align: middle !important;
+  border: solid;
+  border-width: 1px;
+  border-color: #dedede;
+}
+
+.thumbnails-large {
+  height: 190px;
+}
+
+.cell-vertical-middle {
+  text-align: center;
+}
+
+.home-box {
+  width: 100%;
+  font-size: 14px;
+  text-align: center;
+  color: rgb(255,255,255);
+}
+
+.home-box-p {
+  padding-top: 10%;
+  padding-bottom: 5%;
+  min-height: 80px;
+  margin-bottom: 0px !important;
+}
+
